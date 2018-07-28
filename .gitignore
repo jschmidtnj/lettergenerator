@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# generated files - default config
+src/htmlfiles/
+src/pdffiles/
