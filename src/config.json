@@ -1,0 +1,9 @@
+{
+    "csvfilename": "names.csv",
+    "templatefilename": "template.html",
+    "divsidstoreplace": ["name", "address"],
+    "htmloutputdirectory": "htmlfiles",
+    "pdfoutputdirectory": "pdffiles",
+    "generatehtmlfiles": true,
+    "generatepdffiles": true
+}
